@@ -67,7 +67,7 @@
 <https://twitter.com/Developpez>
 ###alsacreations twitter du site 
 <https://twitter.com/alsacreations>
-###Raphaël Goetter expert css et createur <http://www.alsacreations.com/>
+###Raphaël Goetter expert css et createur de <http://www.alsacreations.com/>
 <https://twitter.com/goetter>
 ###grafikart dev freelance createur de <https://www.grafikart.fr/>
 <https://twitter.com/grafikart_fr>
@@ -139,12 +139,12 @@
 
 ###site de rails tutorial en fr mais pas a jour 
 <http://french.railstutorial.org/chapters/beginning>
-###unruby site de tuto ruby et rubyon rails
+###unruby site de tuto ruby et ruby on rails
 <http://unruby.com/>
 ###grafikart tuto dev 
 <https://www.grafikart.fr/>
 ###Blog sur ror et autre 
-<>https://www.florentferry.me/
+<https://www.florentferry.me/>
 ###zen metaphor Podcast hebdomadaire en français pour comprendre le développement web. Raccrocher les concepts nouveaux à des images connues.
 <http://zenm4.net/>
 ###commitstrip bd humoristique sur le dev
@@ -220,5 +220,5 @@
 
 ###pour avoir les differentes docs en local sur son pc il y a pour le moment 198 doc differentes
 <https://zealdocs.org/>
-###gerer nos depot git la creation de branche et bien d autre truc
+###gerer nos depot git la creation de branche et bien d autre
 <https://www.gitkraken.com/>
