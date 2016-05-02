@@ -1,5 +1,5 @@
 # ressources_dev
-##chaines youtube sur le developpement français
+##chaines youtube sur le developpement en français
 
 ###le wagon 
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
@@ -16,7 +16,7 @@
 ###renouveaux surtout node.js et docker
 <https://www.youtube.com/channel/UCnJKrxHZ_AOhmiWjFWS3eEQ>
 
-##chaines youtube sur le developpement anglais
+##chaines youtube sur le developpement en anglais
 
 ###Mackenzie Child surtout du design 
 <https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
