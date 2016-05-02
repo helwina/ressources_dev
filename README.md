@@ -134,3 +134,91 @@
 <https://twitter.com/csswizardry>
 ###rubymine twitteer de l ide rubymine
 <https://twitter.com/rubymine>
+
+##site web fr
+
+###site de rails tutorial en fr mais pas a jour 
+<http://french.railstutorial.org/chapters/beginning>
+###unruby site de tuto ruby et rubyon rails
+<http://unruby.com/>
+###grafikart tuto dev 
+<https://www.grafikart.fr/>
+###Blog sur ror et autre 
+<>https://www.florentferry.me/
+###zen metaphor Podcast hebdomadaire en français pour comprendre le développement web. Raccrocher les concepts nouveaux à des images connues.
+<http://zenm4.net/>
+###commitstrip bd humoristique sur le dev
+<http://www.commitstrip.com/fr/?>
+###liste de resources ruby (quelques une ne sont plus a jours )
+<http://www.jeveuxapprendreruby.fr/>
+###site de paris rb
+<https://rubyparis.org/>
+###jobprod cabinet de recrutement
+<http://jobprod.com/>
+###news sur le dev
+<http://news.humancoders.com/>
+###bog et tuto dev
+<http://darklg.me/>
+###hackademy tuto video dev
+<https://hackademy.io/tutoriels-videos>
+### pour les freelance qui cherche un projets
+<https://www.hopwork.fr/?gclid=CLWqiqOj6csCFbYV0wodDD8LIQ>
+###blog sur le dev font-end
+<http://www.goetter.fr/>
+###tuto et article sur le dev
+<http://www.devandclick.fr/>
+###tuto blog sur le dev
+<https://www.emmanuelbeziat.com/#accueil>
+###google pour les pro formation dev google
+<https://pourlespros.withgoogle.com>
+###tuto blog sur rails
+<http://www.railsfrance.org/>
+###blog d une equipe de dev fr
+<http://www.sois-net.fr/>
+###framworks css tres leger
+<http://knacss.com/>
+###tuto et astuce dev
+<http://www.alsacreations.com/>
+
+
+##site web en
+
+###doc rails 4.2.6
+<http://guides.rubyonrails.org/>
+###ruby tutirial en a jour pour la version 4.2.6
+<https://www.railstutorial.org/book/frontmatter>
+##codrops tuto surtout font-end
+<>http://tympanus.net/codrops/
+###smacss pour bien organiser son css on peut le lire en ligne
+<https://smacss.com/>
+###site de news qui regroupe les 3 site Designer News, Product Hunt et Hacker News
+<http://thenews.im/>
+###site pour trouver des palette couleurs pour nos site 
+<http://www.colourlovers.com/>
+###cree des todo liste pour nos projet seul ou en groupe 
+<https://trello.com/>
+###cms pour rails
+<http://www.spinacms.com/>
+###adapter nos images au differentes taille d ecran
+<http://www.responsivebreakpoints.com/>
+###preview de nos site sous github et bitbucket
+<http://htmlpreview.github.io/>
+###pour trouver les bonne gemme rails
+<http://awesome-ruby.com/>
+###generatuer d image pour maquette
+<http://lorempixel.com/>
+###retrouver les doc des different langage au meme endroit
+<http://devdocs.io/>
+###comme twitch mais pour le dev
+<https://www.livecoding.tv/livestreams/>
+###blog sur ruby
+<http://www.rubyinside.com/>
+###reorganisation d article avec js
+<https://mixitup.kunkalabs.com/>
+
+##programes utile a installer
+
+###pour avoir les differentes docs en local sur son pc il y a pour le moment 198 doc differentes
+<https://zealdocs.org/>
+###gerer nos depot git la creation de branche et bien d autre truc
+<https://www.gitkraken.com/>
