@@ -1,23 +1,27 @@
 # ressources_dev
-##chaines youtube sur le developpement
-###le wagon (fr)
+##chaines youtube sur le developpement français
+
+###le wagon 
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
-###paris rb avec des live tout les premier mardi du mois (fr)
+###paris rb avec des live tout les premier mardi du mois 
 <https://www.youtube.com/channel/UCttFnyoHp4TdsTj1wcVs44A>
-###les teatcher du net de tout php ruby java (fr)
+###les teatcher du net de tout php ruby java 
 <https://www.youtube.com/channel/UCzuaB4F2znrMggxcwUuVhAw>
-###grafikart de tout (fr)
+###grafikart de tout 
 <https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ>
-###developpement facile (fr)
+###developpement facile 
 <https://www.youtube.com/channel/UCj08XoFpUT4-bP1axTfMz4g>
-###devtips (en)
-<https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ>
-###primfx surtout du php (fr)
+###primfx surtout du php 
 <https://www.youtube.com/user/primfxdesign/featured>
-###Mackenzie Child surtout du design (en)
-<https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
-###renouveaux surtout node.js et docker (fr)
+###renouveaux surtout node.js et docker
 <https://www.youtube.com/channel/UCnJKrxHZ_AOhmiWjFWS3eEQ>
-###Google Developers (en)
+
+##chaines youtube sur le developpement anglais
+
+###Mackenzie Child surtout du design 
+<https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
+###devtips 
+<https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ>
+###Google Developers 
 <https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw>
 
