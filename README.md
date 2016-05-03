@@ -189,7 +189,7 @@
 <http://guides.rubyonrails.org/>
 ###ruby tutirial en a jour pour la version 4.2.6
 <https://www.railstutorial.org/book/frontmatter>
-##codrops tuto surtout font-end
+###codrops tuto surtout font-end
 <>http://tympanus.net/codrops/
 ###smacss pour bien organiser son css on peut le lire en ligne
 <https://smacss.com/>
