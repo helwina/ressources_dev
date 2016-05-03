@@ -134,6 +134,8 @@
 <https://twitter.com/csswizardry>
 ###rubymine twitteer de l ide rubymine
 <https://twitter.com/rubymine>
+###ruby5 les new sur ruby 2 fosi par semaine 
+<https://twitter.com/rubyfive>
 
 ##site web fr
 
@@ -215,6 +217,10 @@
 <http://www.rubyinside.com/>
 ###reorganisation d article avec js
 <https://mixitup.kunkalabs.com/>
+###site de news en podcast sur ruby avec 2 podcast par semaine 
+<https://ruby5.codeschool.com/>
+###site d aprentisage en anglais avec une partie des videos gratuite 
+<https://www.codeschool.com/>
 
 ##programes utile a installer
 
