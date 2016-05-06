@@ -71,6 +71,8 @@
 <https://twitter.com/goetter>
 ###grafikart dev freelance createur de <https://www.grafikart.fr/>
 <https://twitter.com/grafikart_fr>
+###compte twitter du site putain de code
+<https://twitter.com/putaindecode_fr>
 
 ##chaine twitter fr/en
 
@@ -181,7 +183,8 @@
 <http://knacss.com/>
 ###tuto et astuce dev
 <http://www.alsacreations.com/>
-
+###site pour lire et publier des info sur les bonne pratique de developpement 
+<http://putaindecode.io/>
 
 ##site web en
 
