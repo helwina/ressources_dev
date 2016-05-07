@@ -138,6 +138,8 @@
 <https://twitter.com/rubymine>
 ###ruby5 les new sur ruby 2 fosi par semaine 
 <https://twitter.com/rubyfive>
+###twitter du site green ruby news
+<https://twitter.com/greenrubist>
 
 ##site web fr
 
@@ -224,6 +226,8 @@
 <https://ruby5.codeschool.com/>
 ###site d aprentisage en anglais avec une partie des videos gratuite 
 <https://www.codeschool.com/>
+###site de news ruby 
+<http://greenruby.org/>
 
 ##programes utile a installer
 
