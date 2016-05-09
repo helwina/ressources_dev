@@ -140,6 +140,8 @@
 <https://twitter.com/rubyfive>
 ###twitter du site green ruby news
 <https://twitter.com/greenrubist>
+###twitter de devchat.tv qui difuse des podcast sur le dev
+<https://twitter.com/devchattv>
 
 ##site web fr
 
@@ -228,6 +230,12 @@
 <https://www.codeschool.com/>
 ###site de news ruby 
 <http://greenruby.org/>
+###site avec des podcast sur le dev js angular react ruby et web security
+<https://devchat.tv/>
+
+##astuce et info utile 
+###rails 5 sur heroku simplement 
+<https://blog.heroku.com/archives/2016/5/2/container_ready_rails_5>
 
 ##programes utile a installer
 
