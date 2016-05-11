@@ -189,6 +189,8 @@
 <http://www.alsacreations.com/>
 ###site pour lire et publier des info sur les bonne pratique de developpement 
 <http://putaindecode.io/>
+###site devmag.fr des news sur le web et le dev
+<http://devmag.fr/>
 
 ##site web en
 
@@ -234,8 +236,10 @@
 <https://devchat.tv/>
 
 ##astuce et info utile 
+
 ###rails 5 sur heroku simplement 
 <https://blog.heroku.com/archives/2016/5/2/container_ready_rails_5>
+
 
 ##programes utile a installer
 
