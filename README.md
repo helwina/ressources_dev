@@ -256,9 +256,9 @@
 
 ###WhatFont (pour conaitre les police d ecriture des site )
 <https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog>
-###Web Developer Checklist (analise les page web et nous donne les probleme rencontrer (lenteur dupication d element css et autre))
+###Web Developer Checklist (analyse les page web et nous donne les probleme rencontrer (lenteur dupication d elements css et autre))
 <https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?utm_source=chrome-app-launcher-info-dialog>
-###Web Developer (ajouter pas mal d outils a chrome pour tester nos pages )
+###Web Developer (ajoute pas mal d outils a chrome pour tester nos pages )
 <https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?utm_source=chrome-app-launcher-info-dialog>
 ###Wappalyzer (pour conaitre une partie des techologies utiliser dans les site visiter )
 <https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-app-launcher-info-dialog>
