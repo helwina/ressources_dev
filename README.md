@@ -201,7 +201,7 @@
 ###ruby tutirial en a jour pour la version 4.2.6
 <https://www.railstutorial.org/book/frontmatter>
 ###codrops tuto surtout font-end
-<>http://tympanus.net/codrops/
+<http://tympanus.net/codrops/>
 ###smacss pour bien organiser son css on peut le lire en ligne
 <https://smacss.com/>
 ###site de news qui regroupe les 3 site Designer News, Product Hunt et Hacker News
@@ -236,6 +236,8 @@
 <http://greenruby.org/>
 ###site avec des podcast sur le dev js angular react ruby et web security
 <https://devchat.tv/>
+###blog de tom copland sur ruby
+<http://thomasleecopeland.com/>
 
 ##astuce et info utile 
 
@@ -249,3 +251,16 @@
 <https://zealdocs.org/>
 ###gerer nos depot git la creation de branche et bien d autre
 <https://www.gitkraken.com/>
+
+##extention google chrome utile a installer
+
+###WhatFont (pour conaitre les police d ecriture des site )
+<https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog>
+###Web Developer Checklist (analise les page web et nous donne les probleme rencontrer (lenteur dupication d element css et autre))
+<https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?utm_source=chrome-app-launcher-info-dialog>
+###Web Developer (ajouter pas mal d outils a chrome pour tester nos pages )
+<https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?utm_source=chrome-app-launcher-info-dialog>
+###Wappalyzer (pour conaitre une partie des techologies utiliser dans les site visiter )
+<https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-app-launcher-info-dialog>
+###momentum (nouvel page d accueil chrome avec un todo list et d autres info)
+<https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog>
