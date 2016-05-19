@@ -252,7 +252,7 @@
 ###gerer nos depot git la creation de branche et bien d autre
 <https://www.gitkraken.com/>
 
-##extention google chrome utile a installer
+##extension google chrome utile a installer
 
 ###WhatFont (pour conaitre les police d ecriture des site )
 <https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog>
