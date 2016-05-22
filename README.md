@@ -238,6 +238,8 @@
 <https://devchat.tv/>
 ###blog de tom copland sur ruby
 <http://thomasleecopeland.com/>
+###cms rails qui à l'air très users friendly 
+<http://alchemy-cms.com/about>
 
 ##astuce et info utile 
 
@@ -264,3 +266,5 @@
 <https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-app-launcher-info-dialog>
 ###momentum (nouvel page d accueil chrome avec un todo list et d autres info)
 <https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog>
+###fontface.ninja une extension sur chrome, firefox et qui vous donne sur toute page web , Police utilisée, espacement/hauteur des lettres !
+<http://www.fontface.ninja/>
