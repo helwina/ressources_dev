@@ -224,7 +224,7 @@
 <http://devdocs.io/>
 ###comme twitch mais pour le dev
 <https://www.livecoding.tv/livestreams/>
-###blog sur ruby
+###blog sur ruby avec une newsletter tout les jeudi (ruby weekly)
 <http://www.rubyinside.com/>
 ###reorganisation d article avec js
 <https://mixitup.kunkalabs.com/>
@@ -232,7 +232,7 @@
 <https://ruby5.codeschool.com/>
 ###site d aprentisage en anglais avec une partie des videos gratuite 
 <https://www.codeschool.com/>
-###site de news ruby 
+###site de news ruby avec une newsletter sur les truc a voir a lire a ecouter et a installer en language ruby
 <http://greenruby.org/>
 ###site avec des podcast sur le dev js angular react ruby et web security
 <https://devchat.tv/>
