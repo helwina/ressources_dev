@@ -75,6 +75,10 @@
 <https://twitter.com/grafikart_fr>
 ###compte twitter du site putain de code
 <https://twitter.com/putaindecode_fr>
+###xebia parle de font-end back-end agilité mobilite et cloud
+<https://twitter.com/XebiaFr>
+###twitter du site tuto.com
+<https://twitter.com/tutofr>
 
 ##chaine twitter fr/en
 
@@ -193,6 +197,8 @@
 <http://putaindecode.io/>
 ###site devmag.fr des news sur le web et le dev
 <http://devmag.fr/>
+###site tuto.com avec des video tuto sur tout les language la pluspart sont gratuit
+<http://fr.tuto.com/>
 
 ##site web en
 
