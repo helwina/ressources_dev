@@ -79,6 +79,8 @@
 <https://twitter.com/XebiaFr>
 ###twitter du site tuto.com
 <https://twitter.com/tutofr>
+###compte twitter du podcast les cast codeur 
+<https://twitter.com/lescastcodeurs>
 
 ##chaine twitter fr/en
 
@@ -199,6 +201,8 @@
 <http://devmag.fr/>
 ###site tuto.com avec des video tuto sur tout les language la pluspart sont gratuit
 <http://fr.tuto.com/>
+###podcast sur le dev fait par et pour les developpeurs
+<https://lescastcodeurs.com/>
 
 ##site web en
 
