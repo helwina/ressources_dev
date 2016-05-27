@@ -202,6 +202,7 @@
 ###site tuto.com avec des video tuto sur tout les language la pluspart sont gratuit
 <http://fr.tuto.com/>
 ###podcast sur le dev fait par et pour les developpeurs
+<https://lescastcodeurs.com/>
 
 ##site web en
 
