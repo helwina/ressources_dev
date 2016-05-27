@@ -203,6 +203,8 @@
 <http://fr.tuto.com/>
 ###podcast sur le dev fait par et pour les developpeurs
 <https://lescastcodeurs.com/>
+###new sur le web et les nouvel technologie
+<http://www.silicon.fr/>
 
 ##site web en
 
