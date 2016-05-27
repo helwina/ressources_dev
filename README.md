@@ -202,7 +202,6 @@
 ###site tuto.com avec des video tuto sur tout les language la pluspart sont gratuit
 <http://fr.tuto.com/>
 ###podcast sur le dev fait par et pour les developpeurs
-<https://lescastcodeurs.com/>
 
 ##site web en
 
@@ -255,7 +254,8 @@
 
 ###rails 5 sur heroku simplement 
 <https://blog.heroku.com/archives/2016/5/2/container_ready_rails_5>
-
+###migration d'un site WordPress manuellement
+<https://wpmarmite.com/migrer-wordpress-manuellement/>
 
 ##programes utile a installer
 
