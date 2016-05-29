@@ -254,6 +254,10 @@
 <http://thomasleecopeland.com/>
 ###cms rails qui à l'air très users friendly 
 <http://alchemy-cms.com/about>
+###analyse de son code css pour connaitre les problemes regles en doubles nombre d utilisation des couleurs etc
+<http://cssstats.com/>
+###autre site d analyse de notre code 
+<http://www.stylestats.org/>
 
 ##astuce et info utile 
 
