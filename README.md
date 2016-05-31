@@ -258,6 +258,8 @@
 <http://cssstats.com/>
 ###autre site d analyse de notre code 
 <http://www.stylestats.org/>
+###tester la vitesse d affichage de nos pages
+<https://developers.google.com/speed/pagespeed/insights/>
 
 ##astuce et info utile 
 
