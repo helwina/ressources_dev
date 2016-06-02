@@ -262,6 +262,8 @@
 <http://www.stylestats.org/>
 ###tester la vitesse d affichage de nos pages
 <https://developers.google.com/speed/pagespeed/insights/>
+####stackoverflow plateforme d entreaide sur le dev
+<http://stackoverflow.com/>
 
 ##astuce et info utile 
 
