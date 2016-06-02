@@ -207,6 +207,8 @@
 <http://www.silicon.fr/>
 ###site pour analyser nous creation l offre gratuite est limiter a 5 analyse par periode de 30 jours
 <https://www.dareboost.com/fr/home>
+###blog sur le dev 
+<http://wodric.com/>
 
 ##site web en
 
