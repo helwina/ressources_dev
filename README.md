@@ -264,6 +264,10 @@
 <https://developers.google.com/speed/pagespeed/insights/>
 ####stackoverflow plateforme d entreaide sur le dev
 <http://stackoverflow.com/>
+###free code camp aprendre le code 
+<https://www.freecodecamp.com/>
+###codecademy apprendre a coder
+<https://www.codecademy.com/>
 
 ##astuce et info utile 
 
