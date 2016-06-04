@@ -268,6 +268,8 @@
 <https://www.freecodecamp.com/>
 ###codecademy apprendre a coder
 <https://www.codecademy.com/>
+###driftingruby video sur ruby, javascrip seo et bien d autre
+<https://www.driftingruby.com>
 
 ##astuce et info utile 
 
