@@ -28,6 +28,8 @@
 <https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw>
 ###rails cast presentation de gems et de tips pour RoR
 <https://www.youtube.com/user/RailscastsReloaded>
+###confreks redifusion de conferences sur le dev
+<https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ>
 
 ##chaines twitter fr
 
