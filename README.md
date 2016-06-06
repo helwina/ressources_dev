@@ -270,6 +270,8 @@
 <https://www.codecademy.com/>
 ###driftingruby video sur ruby, javascrip seo et bien d autre
 <https://www.driftingruby.com>
+###blog sur rails
+<http://blog.bigbinary.com/>
 
 ##astuce et info utile 
 
