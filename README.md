@@ -212,6 +212,11 @@
 ###blog sur le dev 
 <http://wodric.com/>
 
+##site web fr/en
+
+###site de blog colaboratif sur le dev et d autre domaine
+<https://medium.com>
+
 ##site web en
 
 ###doc rails 4.2.6
