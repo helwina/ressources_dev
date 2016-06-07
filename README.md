@@ -100,7 +100,8 @@
 <https://twitter.com/MoOx>
 ###Sébastien Rancoud developpeur
 <https://twitter.com/Rancoud>
-
+###dorian lupu developpeut ruby
+<https://twitter.com/DorianLupu>
 
 ##chaine twitter en
 
