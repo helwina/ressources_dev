@@ -1,5 +1,7 @@
 # ressources_dev
-##chaines youtube sur le developpement en français
+*[chaines youtube fr](#chaines youtube fr)
+
+##chaines youtube fr
 
 ###le wagon 
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
