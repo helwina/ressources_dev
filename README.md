@@ -1,6 +1,6 @@
 # ressources_dev
 * [Chaines youtube fr](#chaines-youtube-fr)
-* [Chaines youtube en](#Chaines-youtube-en)
+* [Chaines youtube en](#chaines-youtube-en)
 
 ##Chaines youtube fr
 
