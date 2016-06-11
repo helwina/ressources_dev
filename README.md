@@ -1,6 +1,15 @@
 # ressources_dev
 * [Chaines youtube fr](#chaines-youtube-fr)
 * [Chaines youtube en](#chaines-youtube-en)
+* [Chaines twitter fr](#chaines-twitter-fr)
+* [Chaine twitter fr/en](#chaine-twitter-fr/en)
+* [Chaine twitter en](#chaine-twitter-en)
+* [Sites web fr](#sites-web-fr)
+* [Sites web fr/en](#sites-web-fr/en)
+* [Sites web en](#sites-web-en)
+* [Astuces et infos utile](#astuces-et-infos-utile)
+* [Programes utile](#erogrames-utile)
+* [Extension google chrome](#extension-google-chrome)
 
 ##Chaines youtube fr
 
@@ -34,7 +43,7 @@
 ###confreks redifusion de conferences sur le dev
 <https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ>
 
-##chaines twitter fr
+##Chaines twitter fr
 
 ###le monde du code 
 <https://twitter.com/CodingMonde>
@@ -87,7 +96,7 @@
 ###compte twitter du podcast les cast codeur 
 <https://twitter.com/lescastcodeurs>
 
-##chaine twitter fr/en
+##Chaine twitter fr/en
 
 ### Sylvain Abélard createur du podcast <http://zenm4.net/> et caster dans les meetups paris-rb
 <https://twitter.com/abelar_s>
@@ -106,7 +115,7 @@
 ###dorian lupu developpeut ruby
 <https://twitter.com/DorianLupu>
 
-##chaine twitter en
+##Chaine twitter en
 
 ###ruby motion un peut de tout sur ruby
 <https://twitter.com/RubyMotion>
@@ -157,7 +166,7 @@
 ###twitter de devchat.tv qui difuse des podcast sur le dev
 <https://twitter.com/devchattv>
 
-##site web fr
+##Sites web fr
 
 ###site de rails tutorial en fr mais pas a jour 
 <http://french.railstutorial.org/chapters/beginning>
@@ -216,14 +225,14 @@
 ###blog sur le dev 
 <http://wodric.com/>
 
-##site web fr/en
+##Sites web fr/en
 
 ###site de blog colaboratif sur le dev et d autre domaine
 <https://medium.com>
 ###cours video et ecris pour se former au dev plein de video sont gratuite
 <https://www.udemy.com>
 
-##site web en
+##Sites web en
 
 ###doc rails 4.2.6
 <http://guides.rubyonrails.org/>
@@ -286,21 +295,21 @@
 ###blog sur rails avec plsin de news sur rails 5
 <http://blog.bigbinary.com/>
 
-##astuce et info utile 
+##Astuces et infos utile
 
 ###rails 5 sur heroku simplement 
 <https://blog.heroku.com/archives/2016/5/2/container_ready_rails_5>
 ###migration d'un site WordPress manuellement
 <https://wpmarmite.com/migrer-wordpress-manuellement/>
 
-##programes utile a installer
+##Programes utile
 
 ###pour avoir les differentes docs en local sur son pc il y a pour le moment 198 doc differentes
 <https://zealdocs.org/>
 ###gerer nos depot git la creation de branche et bien d autre
 <https://www.gitkraken.com/>
 
-##extension google chrome utile a installer
+##Extension google chrome
 
 ###WhatFont (pour conaitre les police d ecriture des site )
 <https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog>
