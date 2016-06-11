@@ -217,6 +217,8 @@
 
 ###site de blog colaboratif sur le dev et d autre domaine
 <https://medium.com>
+###cours video et ecris pour se former au dev plein de video sont gratuite
+<https://www.udemy.com>
 
 ##site web en
 
