@@ -1,7 +1,8 @@
 # ressources_dev
-*[chaines youtube fr](#chaines youtube fr)
+* [Chaines youtube fr](#chaines-youtube-fr)
+* [Chaines youtube en](#Chaines-youtube-en)
 
-##chaines youtube fr
+##Chaines youtube fr
 
 ###le wagon 
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
@@ -20,7 +21,7 @@
 ###devandclic videp tuto sur html/css/php
 <https://www.youtube.com/user/devandclick>
 
-##chaines youtube sur le developpement en anglais
+##Chaines youtube en
 
 ###Mackenzie Child surtout du design 
 <https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
