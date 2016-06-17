@@ -18,22 +18,22 @@
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
 ###paris rb avec des live tout les premier mardi du mois 
 <https://www.youtube.com/channel/UCttFnyoHp4TdsTj1wcVs44A>
-###les teatcher du net de tout php ruby java 
+###les teatcher du net avec des video pour apprendre java php ruby et bien d'autres
 <https://www.youtube.com/channel/UCzuaB4F2znrMggxcwUuVhAw>
-###grafikart de tout 
+###grafikart avec des formations sur different language et des tutos
 <https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ>
 ###developpement facile 
 <https://www.youtube.com/channel/UCj08XoFpUT4-bP1axTfMz4g>
-###primfx surtout du php 
+###primfx video tuto sur le php
 <https://www.youtube.com/user/primfxdesign/featured>
-###renouveaux surtout node.js et docker
+###renouveaux video sur node.js et docker
 <https://www.youtube.com/channel/UCnJKrxHZ_AOhmiWjFWS3eEQ>
 ###devandclic videp tuto sur html/css/php
 <https://www.youtube.com/user/devandclick>
 
 ##Chaines youtube en
 
-###Mackenzie Child surtout du design 
+###Mackenzie Child tuto design
 <https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
 ###devtips 
 <https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ>
