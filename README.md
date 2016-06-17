@@ -324,3 +324,5 @@
 <https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog>
 ###fontface.ninja une extension sur chrome, firefox et qui vous donne sur toute page web , Police utilisée, espacement/hauteur des lettres !
 <http://www.fontface.ninja/>
+###lastpas gestionnaire de mots de pass
+<https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon>
