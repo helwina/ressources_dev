@@ -20,24 +20,24 @@
 <https://www.youtube.com/channel/UCttFnyoHp4TdsTj1wcVs44A>
 ###les teatcher du net avec des video pour apprendre java php ruby et bien d'autres
 <https://www.youtube.com/channel/UCzuaB4F2znrMggxcwUuVhAw>
-###grafikart avec des formations sur different language et des tutos
+###grafikart avec des formations et des tutos sur different language web
 <https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ>
-###developpement facile 
+###developpement facile sur les bases du dev
 <https://www.youtube.com/channel/UCj08XoFpUT4-bP1axTfMz4g>
 ###primfx video tuto sur le php
 <https://www.youtube.com/user/primfxdesign/featured>
 ###renouveaux video sur node.js et docker
 <https://www.youtube.com/channel/UCnJKrxHZ_AOhmiWjFWS3eEQ>
-###devandclic videp tuto sur html/css/php
+###devandclic video tuto sur html/css/php
 <https://www.youtube.com/user/devandclick>
 
 ##Chaines youtube en
 
 ###Mackenzie Child tuto design
 <https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
-###devtips 
+###devtips info divers sur le dev
 <https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ>
-###Google Developers 
+###Google Developers
 <https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw>
 ###rails cast presentation de gems et de tips pour RoR
 <https://www.youtube.com/user/RailscastsReloaded>
@@ -70,7 +70,7 @@
 <https://twitter.com/HCN_Ruby>
 ###Anthony Welc une personne qui apprend le code et fait des video sur ce qu il apprend
 <https://twitter.com/AnthoWelc>
-###symbioz des news sur ruby et quelques autres techno
+###symbioz des news sur ruby et quelques autres technologies
 <https://twitter.com/synbioz>
 ###Camille Roux fondateur de human coders
 <https://twitter.com/CamilleRoux>
@@ -169,11 +169,11 @@
 
 ##Sites web fr
 
-###site de rails tutorial en fr mais pas a jour 
+###site de rails tutorial en fr (pas a jour pour les dernieres version de rails )
 <http://french.railstutorial.org/chapters/beginning>
 ###unruby site de tuto ruby et ruby on rails
 <http://unruby.com/>
-###grafikart tuto dev 
+###grafikart tuto et formations dev
 <https://www.grafikart.fr/>
 ###Blog sur ror et autre 
 <https://www.florentferry.me/>
@@ -193,7 +193,7 @@
 <http://darklg.me/>
 ###hackademy tuto video dev
 <https://hackademy.io/tutoriels-videos>
-### pour les freelance qui cherche un projets
+### pour les freelance qui cherche un projet
 <https://www.hopwork.fr/?gclid=CLWqiqOj6csCFbYV0wodDD8LIQ>
 ###blog sur le dev font-end
 <http://www.goetter.fr/>
@@ -215,11 +215,11 @@
 <http://putaindecode.io/>
 ###site devmag.fr des news sur le web et le dev
 <http://devmag.fr/>
-###site tuto.com avec des video tuto sur tout les language la pluspart sont gratuit
+###site tuto.com avec des video tuto et des formations sur les technologie web / design (queslques video sont gratuite d autres payante)
 <http://fr.tuto.com/>
 ###podcast sur le dev fait par et pour les developpeurs
 <https://lescastcodeurs.com/>
-###new sur le web et les nouvel technologie
+###new sur le web et les nouvels technologie
 <http://www.silicon.fr/>
 ###site pour analyser nous creation l offre gratuite est limiter a 5 analyse par periode de 30 jours
 <https://www.dareboost.com/fr/home>
@@ -235,7 +235,7 @@
 
 ##Sites web en
 
-###doc rails 4.2.6
+###doc rails
 <http://guides.rubyonrails.org/>
 ###ruby tutirial en a jour pour la version 4.2.6
 <https://www.railstutorial.org/book/frontmatter>
@@ -295,6 +295,8 @@
 <https://www.driftingruby.com>
 ###blog sur rails avec plsin de news sur rails 5
 <http://blog.bigbinary.com/>
+###site avec plein de formation sur le dev/design
+<https://www.udemy.com>
 
 ##Astuces et infos utile
 
