@@ -293,7 +293,7 @@
 <https://www.codecademy.com/>
 ###driftingruby video sur ruby, javascrip seo et bien d autre
 <https://www.driftingruby.com>
-###blog sur rails avec plsin de news sur rails 5
+###blog sur rails avec plsin de news sur RoR et sur les versions de test de rails 5
 <http://blog.bigbinary.com/>
 ###site avec plein de formation sur le dev/design
 <https://www.udemy.com>
@@ -326,5 +326,5 @@
 <https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?utm_source=chrome-app-launcher-info-dialog>
 ###fontface.ninja une extension sur chrome, firefox et qui vous donne sur toute page web , Police utilisée, espacement/hauteur des lettres !
 <http://www.fontface.ninja/>
-###lastpas gestionnaire de mots de pass
+###lastpass gestionnaire de mots de pass
 <https://chrome.google.com/webstore/detail/lastpass-free-password-ma/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-ntp-icon>
