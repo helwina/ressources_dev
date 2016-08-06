@@ -166,6 +166,8 @@
 <https://twitter.com/greenrubist>
 ###twitter de devchat.tv qui difuse des podcast sur le dev
 <https://twitter.com/devchattv>
+###twitter d arkency createur d un blog sur rails 
+<https://twitter.com/arkency>
 
 ##Sites web fr
 
@@ -297,6 +299,10 @@
 <http://blog.bigbinary.com/>
 ###site avec plein de formation sur le dev/design
 <https://www.udemy.com>
+###blog d arkency sur rails
+<http://arkency.com/>
+###site Ruby Web Dev The Other Way
+<http://rwdtow.stdout.in/>
 
 ##Astuces et infos utile
 
