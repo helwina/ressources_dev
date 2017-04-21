@@ -117,7 +117,8 @@
 <https://twitter.com/DorianLupu>
 
 ##Chaine twitter en
-
+###twitter de rubymine une tres bon IDE pour rails
+<https://twitter.com/rubymine?lang=fr>
 ###ruby motion un peut de tout sur ruby
 <https://twitter.com/RubyMotion>
 ###js daily de tout sur js et les framworks js
