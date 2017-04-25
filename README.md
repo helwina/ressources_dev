@@ -13,7 +13,8 @@
 * [Extension google chrome](#extension-google-chrome)
 
 ##Chaines youtube fr
-
+###devoxx chaine youtube avec plusieurs conference sur le developpement web et les nouvelles technologies
+<https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/videos>
 ###le wagon 
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
 ###paris rb avec des live tout les premier mardi du mois 
