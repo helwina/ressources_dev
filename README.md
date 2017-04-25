@@ -12,11 +12,11 @@
 * [Programes utile](#programes-utile)
 * [Extension google chrome](#extension-google-chrome)
 
-#Chaines youtube fr
+## Chaines youtube fr
 
-###devoxx fr chaine youtube avec plusieurs conference sur le developpement web et les nouvelles technologies
+### devoxx fr chaine youtube avec plusieurs conference sur le developpement web et les nouvelles technologies
 <https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/videos>
-###le wagon
+### le wagon
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
 ###paris rb avec des live tout les premier mardi du mois
 <https://www.youtube.com/channel/UCttFnyoHp4TdsTj1wcVs44A>
