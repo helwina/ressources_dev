@@ -13,7 +13,8 @@
 * [Extension google chrome](#extension-google-chrome)
 
 ##Chaines youtube fr
-###devoxx chaine youtube avec plusieurs conference sur le developpement web et les nouvelles technologies
+
+###devoxx fr chaine youtube avec plusieurs conference sur le developpement web et les nouvelles technologies
 <https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/videos>
 ###le wagon 
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
@@ -34,6 +35,8 @@
 
 ##Chaines youtube en
 
+###devoxx chaine de conference sur le developpement et les technologie web
+<https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/videos>
 ###Mackenzie Child tuto design
 <https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
 ###devtips info divers sur le dev
@@ -47,6 +50,8 @@
 
 ##Chaines twitter fr
 
+###chaine de devoxx fr
+<https://twitter.com/DevoxxFR>
 ###le monde du code 
 <https://twitter.com/CodingMonde>
 ###human coders font end dev
@@ -118,6 +123,9 @@
 <https://twitter.com/DorianLupu>
 
 ##Chaine twitter en
+
+###chaine de devoxx us
+<https://twitter.com/Devoxx?lang=fr>
 ###twitter de rubymine une tres bon IDE pour rails
 <https://twitter.com/rubymine?lang=fr>
 ###ruby motion un peut de tout sur ruby
