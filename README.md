@@ -1,7 +1,7 @@
 # ressources_dev
 
-* [Chaines youtube fr](#chaines-youtube-fr)
-* [Chaines youtube en](#chaines-youtube-en)
+* [Chaines youtube fr](#Chaines-youtube-fr)
+* [Chaines youtube en](#Chaines-youtube-en)
 * [Chaines twitter fr](#chaines-twitter-fr)
 * [Chaine twitter fr/en](#chaine-twitter-fr/en)
 * [Chaine twitter en](#chaine-twitter-en)
