@@ -124,7 +124,7 @@
 
 ## Chaine twitter en
 
-### chaine de devoxx us
+### devoxx us
 <https://twitter.com/Devoxx?lang=fr>
 ### twitter de rubymine une tres bon IDE pour rails
 <https://twitter.com/rubymine?lang=fr>
