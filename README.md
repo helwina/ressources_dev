@@ -105,22 +105,22 @@
 
 ## Chaine twitter fr/en
 
-### Sylvain Abélard createur du podcast <http://zenm4.net/> et caster dans les meetups paris-rb
+### Abélard Sylvain createur du podcast <http://zenm4.net/> et caster dans les meetups paris-rb
 <https://twitter.com/abelar_s>
-### Thibaut Assus dev ruby et co fondateur de <http://jobboardmaker.com/fr> et egalement caster dans les paris-rb
-<https://twitter.com/tibastral>
-### Yann Klis
-<https://twitter.com/yannski>
-### pierre baron web et mobile developpeur
-<https://twitter.com/prbaron>
 ### alex-d dev freelance
 <https://twitter.com/AlexandreDemode>
+### Assus Thibaut dev ruby et co fondateur de <http://jobboardmaker.com/fr> et egalement caster dans les paris-rb
+<https://twitter.com/tibastral>
+### baron pierre web et mobile developpeur
+<https://twitter.com/prbaron>
+### Klis Yann
+<https://twitter.com/yannski>
+### lupu dorian developpeut ruby
+<https://twitter.com/DorianLupu>
 ### Maxime Thirouin freelance dev font-end
 <https://twitter.com/MoOx>
 ### Sébastien Rancoud developpeur
 <https://twitter.com/Rancoud>
-### dorian lupu developpeut ruby
-<https://twitter.com/DorianLupu>
 
 ## Chaine twitter en
 
