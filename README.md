@@ -14,24 +14,24 @@
 
 ## Chaines youtube fr
 
+### devandclic video tuto sur html/css/php
+<https://www.youtube.com/user/devandclick>
+### developpement facile sur les bases du dev
+<https://www.youtube.com/channel/UCj08XoFpUT4-bP1axTfMz4g>
 ### devoxx fr chaine youtube avec plusieurs conference sur le developpement web et les nouvelles technologies
 <https://www.youtube.com/channel/UCsVPQfo5RZErDL41LoWvk0A/videos>
+### grafikart avec des formations et des tutos sur different language web
+<https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ>
+### les teatcher du net avec des video pour apprendre java php ruby et bien d'autres
+<https://www.youtube.com/channel/UCzuaB4F2znrMggxcwUuVhAw>
 ### le wagon
 <https://www.youtube.com/channel/UChCDYcBCrb8tuPAO6e0P-Hw/featured>
 ### paris rb avec des live tout les premier mardi du mois
 <https://www.youtube.com/channel/UCttFnyoHp4TdsTj1wcVs44A>
-### les teatcher du net avec des video pour apprendre java php ruby et bien d'autres
-<https://www.youtube.com/channel/UCzuaB4F2znrMggxcwUuVhAw>
-### grafikart avec des formations et des tutos sur different language web
-<https://www.youtube.com/channel/UCj_iGliGCkLcHSZ8eqVNPDQ>
-### developpement facile sur les bases du dev
-<https://www.youtube.com/channel/UCj08XoFpUT4-bP1axTfMz4g>
 ### primfx video tuto sur le php
 <https://www.youtube.com/user/primfxdesign/featured>
 ### renouveaux video sur node.js et docker
 <https://www.youtube.com/channel/UCnJKrxHZ_AOhmiWjFWS3eEQ>
-### devandclic video tuto sur html/css/php
-<https://www.youtube.com/user/devandclick>
 
 ## Chaines youtube en
 
