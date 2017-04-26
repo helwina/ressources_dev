@@ -50,58 +50,58 @@
 
 ## Chaines twitter fr
 
-### chaine de devoxx fr
+### alsacreations twitter du site
+<https://twitter.com/alsacreations>
+### Anthony Welc une personne qui apprend le code et fait des video sur ce qu il apprend
+<https://twitter.com/AnthoWelc>
+### Camille Roux fondateur de human coders
+<https://twitter.com/CamilleRoux>
+### developpez.com
+<https://twitter.com/Developpez>
+### devoxx fr
 <https://twitter.com/DevoxxFR>
-### le monde du code
-<https://twitter.com/CodingMonde>
+### grafikart dev freelance createur de <https://www.grafikart.fr/>
+<https://twitter.com/grafikart_fr>
+### human coders
+<https://twitter.com/humancoders>
+### human coders api
+<https://twitter.com/HCNAPI>
+### human coders dev
+<https://twitter.com/HCNDev>
 ### human coders font end dev
 <https://twitter.com/HCNDevFront>
 ### human coders git
 <https://twitter.com/HCNGit>
-### human coders api
-<https://twitter.com/HCNAPI>
 ### human coders html5
 <https://twitter.com/HCNHTML5>
 ### human coders JS
 <https://twitter.com/HCNJavaScript>
-### human coders PHP
-<https://twitter.com/HCNphp>
-### human coders dev
-<https://twitter.com/HCNDev>
 ### human coders news
 <https://twitter.com/HumanCodersNews>
-### human coders
-<https://twitter.com/humancoders>
+### human coders PHP
+<https://twitter.com/HCNphp>
 ### human coders ruby
 <https://twitter.com/HCN_Ruby>
-### Anthony Welc une personne qui apprend le code et fait des video sur ce qu il apprend
-<https://twitter.com/AnthoWelc>
-### symbioz des news sur ruby et quelques autres technologies
-<https://twitter.com/synbioz>
-### Camille Roux fondateur de human coders
-<https://twitter.com/CamilleRoux>
+### le monde du code
+<https://twitter.com/CodingMonde>
+### compte twitter du podcast les cast codeur
+<https://twitter.com/lescastcodeurs>
 ### novelys agence dev fr
 <https://twitter.com/novelys>
 ### paris-rb neetup sur ruby a paris
 <https://twitter.com/parisrb>
-### urban linker cabinet de recrutement dev
-<https://twitter.com/Urban_Linker>
-### twitter du site developpez.com
-<https://twitter.com/Developpez>
-### alsacreations twitter du site
-<https://twitter.com/alsacreations>
-### Raphaël Goetter expert css et createur de <http://www.alsacreations.com/>
-<https://twitter.com/goetter>
-### grafikart dev freelance createur de <https://www.grafikart.fr/>
-<https://twitter.com/grafikart_fr>
 ### compte twitter du site putain de code
 <https://twitter.com/putaindecode_fr>
-### xebia parle de font-end back-end agilité mobilite et cloud
-<https://twitter.com/XebiaFr>
+### Raphaël Goetter expert css et createur de <http://www.alsacreations.com/>
+<https://twitter.com/goetter>
+### symbioz des news sur ruby et quelques autres technologies
+<https://twitter.com/synbioz>
 ### twitter du site tuto.com
 <https://twitter.com/tutofr>
-### compte twitter du podcast les cast codeur
-<https://twitter.com/lescastcodeurs>
+### urban linker cabinet de recrutement dev
+<https://twitter.com/Urban_Linker>
+### xebia parle de font-end back-end agilité mobilite et cloud
+<https://twitter.com/XebiaFr>
 
 ## Chaine twitter fr/en
 
