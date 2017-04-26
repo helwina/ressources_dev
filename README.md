@@ -35,18 +35,18 @@
 
 ## Chaines youtube en
 
+### confreks redifusion de conferences sur le dev
+<https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ>
 ### devoxx chaine de conference sur le developpement et les technologie web
 <https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg/videos>
-### Mackenzie Child tuto design
-<https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
 ### devtips info divers sur le dev
 <https://www.youtube.com/channel/UCyIe-61Y8C4_o-zZCtO4ETQ>
 ### Google Developers
 <https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw>
+### Mackenzie Child tuto design
+<https://www.youtube.com/channel/UCfWZwsP8trUy5uHJg8gcGIQ>
 ### rails cast presentation de gems et de tips pour RoR
 <https://www.youtube.com/user/RailscastsReloaded>
-### confreks redifusion de conferences sur le dev
-<https://www.youtube.com/channel/UCWnPjmqvljcafA0z2U1fwKQ>
 
 ## Chaines twitter fr
 
